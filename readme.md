@@ -6,10 +6,10 @@ This breakout board provides a simple method to use a TJA1028T LIN transceiver w
 
 ## Picture of the Board
 
-![image-20231108174813726](D:\tja1018-breakout\breakout-board.jpg)
+![image-20231108174813726](breakout-board.jpg)
 
 
 
 ## Schematics
 
-![image-20231108175140042](D:\tja1018-breakout\schematics)
+![image-20231108175140042](schematics)
